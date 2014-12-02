@@ -2,4 +2,7 @@ My-first-project
 ================
 
 First Java project to do some BGC?
-Why can't I edit this on Github app?
+and basic stuffs for plug dj
+Aiming for ultimate goal of an app like tastyplug
+
+Working on basic java works, beginner, all inputs are welcomed.
